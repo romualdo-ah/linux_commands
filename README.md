@@ -16,6 +16,7 @@ When you install one linux on your machine and your GRUB does not display the ot
 # Install nvm for node
 
 ```sudo apt install curl``` 
+
 ```curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash ```
 
 The nvm installer script creates environment entry to login script of the current user. You can either logout and login again to load the environment or execute the below command to do the same.
