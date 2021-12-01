@@ -38,3 +38,13 @@ You can also select a different version for the current session. The selected ve
 To find the default Node version set for the current user, type:
 
 ```nvm run default --version```
+
+## Install snap
+
+```sudo apt install snapd```
+
+## Install .NET Core
+
+Install snap ☝️, then
+```sudo snap install dotnet-sdk --classic```
+
