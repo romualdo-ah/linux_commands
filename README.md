@@ -48,3 +48,6 @@ To find the default Node version set for the current user, type:
 Install snap ☝️, then
 ```sudo snap install dotnet-sdk --classic```
 
+## Install Dbeaver (database manager)
+
+```sudo snap install dbeaver-ce```
