@@ -51,3 +51,30 @@ Install snap ☝️, then
 ## Install Dbeaver (database manager)
 
 ```sudo snap install dbeaver-ce```
+
+## Install Java
+
+### Install default JRE and JDK
+
+```sudo apt install default-jre```
+```sudo apt install default-jdk```
+
+### Install a especific version
+
+```sudo apt install openjdk-8-jdk```
+```sudo apt install openjdk-8-jre```
+
+ or
+
+```sudo apt install openjdk-9-jdk```
+```sudo apt install openjdk-9-jre```
+
+or 
+
+```sudo apt install openjdk-11-jdk```
+```sudo apt install openjdk-11-jre```
+
+### Set default Java JDK
+
+```sudo update-alternatives --config java```
+
