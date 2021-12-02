@@ -58,21 +58,25 @@ Install snap ☝️, then
 ### Install default JRE and JDK
 
 ```sudo apt install default-jre```
+
 ```sudo apt install default-jdk```
 
 ### Install a especific version
 
 ```sudo apt install openjdk-8-jdk```
+
 ```sudo apt install openjdk-8-jre```
 
  or
 
 ```sudo apt install openjdk-9-jdk```
+
 ```sudo apt install openjdk-9-jre```
 
 or 
 
 ```sudo apt install openjdk-11-jdk```
+
 ```sudo apt install openjdk-11-jre```
 
 ### Set default Java JDK
