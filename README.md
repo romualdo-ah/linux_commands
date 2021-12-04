@@ -83,3 +83,16 @@ or
 
 ```sudo update-alternatives --config java```
 
+## Start and stop some database services
+
+### For MYSQL
+
+```sudo service mysql start```
+
+```sudo service mysql stop```
+
+### For Mongo
+
+```sudo service mongod start```
+
+```sudo service mongod stop```
