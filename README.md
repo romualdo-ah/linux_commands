@@ -83,6 +83,8 @@ or
 
 ```sudo update-alternatives --config java```
 
+Then follow instructions.
+
 ## Start and stop some database services
 
 ### For MYSQL
