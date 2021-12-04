@@ -83,7 +83,7 @@ or
 
 ```sudo update-alternatives --config java```
 
-Then follow instructions.
+Then select your preffered JDK.
 
 ## Start and stop some database services
 
